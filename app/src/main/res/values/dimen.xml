@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="reg_padding">20dp</dimen>
+    <dimen name="def_textSize">30sp</dimen>
+    <dimen name="def_marginStart">20dp</dimen>
+    <dimen name="def_marginEnd">20dp</dimen>
+</resources>

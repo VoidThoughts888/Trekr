@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Trekr</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="sample">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque in erat ac tellus tempus hendrerit. Ut fermentum aliquam metus, maximus dapibus mi cursus ac.Morbi aliquet commodo nulla, nec finibus orci tristique a. Sed eu nisi in tortor condimentum euismod. Mauris nulla lorem, pellentesque vel cursus id, lobortis ac sem.</string>
+    <string name="sample2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Quisque in erat ac tellus tempus hendrerit.</string>
+    <string name="sample_name">USERNAME</string>
+    <string name="sample_text">Sample Text</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="best_seller">Best Seller</string>
+    <string name="see_all">See All</string>
+    <string name="new_arrivals">New Arrivals</string>
+</resources>
